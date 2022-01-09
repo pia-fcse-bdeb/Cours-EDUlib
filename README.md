@@ -45,7 +45,7 @@ Ce cours en ligne s’adresse à toute personne voulant se familiariser et
 développer ses compétences dans les outils de base pour débuter un projet en
 science des données.  
 
-## Pour consulter la page officiel du cours, cliquez [ici](https://catalogue.edulib.org/fr/cours/ /)
+## Pour consulter la page officiel du cours, cliquez [ici](https://catalogue.edulib.org/fr/cours/)
 
 ## Licence
 
