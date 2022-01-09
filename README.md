@@ -7,9 +7,9 @@ l'[Collège de Bois de Boulogne-Université de Montréal](https://bdeb.qc.ca), D
 
 Conseillère pédagogique: Sabine Boufenara
 
-Enseignants: [Hafed Benteftifa] (PhD),
-[Soumaya Chaffar] (PhD) et
-[Mustapha Bensmaia] (Formateur).
+Enseignants: [Hafed Benteftifa](PhD),
+[Soumaya Chaffar](PhD) et
+[Mustapha Bensmaia](Formateur).
 
 ---
 
