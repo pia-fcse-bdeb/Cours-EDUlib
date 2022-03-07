@@ -1,0 +1,7 @@
+Genre,Age,Classe,Appreciation
+femelle,20-30,Économique,Satisfait
+Mâle,20-30,Affaires,Insatisfait
+Mâle,31-40,Économique,Neutre
+femelle,41-50,Première,Satisfait
+femelle,<20,Économique,Très Satisfait
+Mâle,31-40,Économique,Très Insatisfait
