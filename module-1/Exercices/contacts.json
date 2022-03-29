@@ -1,0 +1,112 @@
+{
+    "contacts": [
+        {
+                "id": "c200",
+                "name": "Aler pacinod",
+                "email": "pacinod@gmail.com",
+                "address": "124 rue des mimosas",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "514 555-1234",
+                    "home": "514 555-4536",
+                    "office": "514 555-7890"
+                }
+        },
+        {
+                "id": "c201",
+                "name": "dohnny Topp",
+                "email": "dohnny_Topp@gmail.com",
+                "address": "954 rue des iris montreal",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "514 555-9874",
+                    "home": "514 555-4561",
+                    "office": "514 555-1230"
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Oleono capprio",
+                "email": "Oleono_capprio@gmail.com",
+                "address": "874 rue des chenes quebec",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "514 555-5644",
+                    "home": "514 555-6985",
+                    "office": "514 555-7845"
+                }
+        },
+        {
+                "id": "c203",
+                "name": "Johe Bayne",
+                "email": "Johe_Bayne@gmail.com",
+                "address": "98 rue des orchides quebec",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "514 555-1010",
+                    "home": "514 555-2020",
+                    "office": "514 555-3030"
+                }
+        },
+        {
+                "id": "c204",
+                "name": "Mina Jolie",
+                "email": "mina_jolie@gmail.com",
+                "address": "74 rue des tulipes Montreal",
+                "gender" : "female",
+                "phone": {
+                    "mobile": "514 555-4141",
+                    "home": "514 555-5151",
+                    "office": "514 555-6161"
+                }
+        },
+        {
+                "id": "c205",
+                "name": "kido Lio",
+                "email": "did_lioo@gmail.com",
+                "address": "101 rue des fleurs Montreal",
+                "gender" : "female",
+                "phone": {
+                    "mobile": "514 555-7474",
+                    "home": "514 555-8484",
+                    "office": "514 555-9494"
+                }
+        },
+        {
+                "id": "c206",
+                "name": "Adele Poli",
+                "email": "adele_poli@gmail.com",
+                "address": "45 rue des platanes ottawa",
+                "gender" : "female",
+                "phone": {
+                    "mobile": "514 555-6363",
+                    "home": "514 555-5353",
+                    "office": "514 555-4343"
+                }
+        },
+        {
+                "id": "c207",
+                "name": "Hug Blinkman",
+                "email": "Hug_Blinkman@gmail.com",
+                "address": "12 rue du midi Longueuil",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "514 555-5454",
+                    "home": "514 555-6464",
+                    "office": "514 555-8474"
+                }
+        },
+        {
+                "id": "c208",
+                "name": "Wildo Kmith",
+                "email": "Wildo_Kmith@gmail.com",
+                "address": "14 rue du parc, MTL",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+514 555-8745",
+                    "home": "514 555-2525",
+                    "office": "514 555-2416"
+                }
+        }
+    ]
+}
